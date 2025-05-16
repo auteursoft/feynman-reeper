@@ -30,4 +30,4 @@ Activation Lock Status:	Enabled
 6. Run `harvest.py`: `python harvest.py`: Note the first step will be to create an mp3 inventory file named `flptapes.js`. The version of that file generated when this repository was created is preserved for comparison and future change analysis in the `_flptapes.js` file included in this repository. 
 
 
-© 2025, Professor Doctor Sean P. Goggins, the Dork Union, and ["Mr. Hand's Songs of Spicolli"](https://open.spotify.com/playlist/2aOikiOH69uiC9VHIAODA6?si=d9c7ac2492bf43fa)
+© 2025, Professor Doctor Sean P. Goggins, the Dork Union, and ["Mr. Hand's Songs of Spicolli"](https://open.spotify.com/playlist/2aOikiOH69uiC9VHIAODA6?si=d9c7ac2492bf43fa), which is also listed in the `playlist.md` file. Playlist generated using [*spotify-reeper*](https://github.com/auteursoft/spotify-reeper.git)
