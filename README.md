@@ -25,3 +25,6 @@ Activation Lock Status:	Enabled
 3. Create a python virtual environment: `python3 -m venv .venv`
 4. Activate the Python virtual environment: `source .venv/bin/activate`
 5. Run `harvest.py`: `python harvest.py`
+
+
+© 2025, Professor Doctor Sean P. Goggins and the Dork Union
