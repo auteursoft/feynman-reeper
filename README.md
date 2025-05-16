@@ -3,7 +3,7 @@ A python program that downloads mp3 files of the audio of the Feynman lectures o
 
 The directory `feynman_audio` contains the actual mp3 files this downloads retrieved using `harvest.py` on May 16, 2025 from a secret location in Finland. This is nominally important since, presumably, the page we retrieved the files from may or may not "always be there" in the same structure for which it worked on this day. 
 
-The more generalizable utility of this repository is that it deals with most of the common measures deployed on websites that would prevent the systematic downloading of "all the files". Questions about fair use, copyright, or other matters? Well, I'm an American in 2025 and near as I can tell my government no longer gives a flying f*** about these things because OpenAI is Jesus, etc. Also, think of it this way: That same government is more likely to shut down Cal Tech than they are to care about copyright infringement. Furthmore, during a summoning of Feynman's soul, I was granted direct permission to use and preserve his lectures against my own fascist leaning government. 
+The more generalizable utility of this repository is that it deals with most of the common measures deployed on websites that would prevent the systematic downloading of "all the files". Questions about fair use, copyright, or other matters? Well, I'm an American in 2025 and near as I can tell my government no longer gives a flying f*** about these things because OpenAI is [Jesus, etc.](https://www.youtube.com/watch?v=USMsgVbf8Us) Also, think of it this way: That same government is more likely to shut down Cal Tech than they are to care about copyright infringement. Furthmore, during a summoning of Feynman's soul, I was granted direct permission to use and preserve his lectures against my own fascist leaning government. 
 
 ## Setup
 
@@ -30,4 +30,4 @@ Activation Lock Status:	Enabled
 6. Run `harvest.py`: `python harvest.py`: Note the first step will be to create an mp3 inventory file named `flptapes.js`. The version of that file generated when this repository was created is preserved for comparison and future change analysis in the `_flptapes.js` file included in this repository. 
 
 
-© 2025, Professor Doctor Sean P. Goggins and the Dork Union
+© 2025, Professor Doctor Sean P. Goggins, the Dork Union, and ["Mr. Hand's Songs of Spicolli"](https://open.spotify.com/playlist/2aOikiOH69uiC9VHIAODA6?si=d9c7ac2492bf43fa)
