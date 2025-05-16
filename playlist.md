@@ -1,4 +1,4 @@
-# Playlist Listened to During Creation
+# Playlist Listened to During Creation: "Mr. Hand's Songs of Spicolli"
 | Song                                                      | Artists                                        |
 |:----------------------------------------------------------|:-----------------------------------------------|
 | Waiting                                                   | Green Day                                      |
