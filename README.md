@@ -27,7 +27,7 @@ Activation Lock Status:	Enabled
 3. Create a python virtual environment: `python3 -m venv .venv`
 4. Activate the Python virtual environment: `source .venv/bin/activate`
 5. Add the necessary external libraries to your Python virtual environment: `pip install -r requirements.txt`
-6. Run `harvest.py`: `python harvest.py`
+6. Run `harvest.py`: `python harvest.py`: Note the first step will be to create an mp3 inventory file named `flptapes.js`. The version of that file generated when this repository was created is preserved for comparison and future change analysis in the `_flptapes.js` file included in this repository. 
 
 
 © 2025, Professor Doctor Sean P. Goggins and the Dork Union
